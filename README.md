@@ -6,4 +6,4 @@ The main goal of this project is to find the minimum number of coins needed to m
 Written in Python: Main programming language , Tkinter for GUI
 
 #ScreenShot
-(screenshot.jpg)
+(Screenshot.jpg)
